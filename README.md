@@ -151,3 +151,21 @@ GET http://localhost:8000/orders/{localOrderId}
 -   SQLite database is used for local development.
 
 
+
+------------------------------------------------------------------------
+
+# 📎 AI tool help during this coding test assignement
+
+-   search on google & got google AI overview for quickly reviewing some new latest helper functions (ex. Arr) / syntax examples, and Eloquent model properties & methods in Laravel 12 + PHPUnit Testing syntax example for testing each scenarios (ex.how to mock external api response, insert fake records, concurrentlly run sending requests )
+-   ChatGPT for formatting my installation & running app guideline content into README.md
+
+
+
+------------------------------------------------------------------------
+
+# 📎 Assumptions
+
+-   This project is developed as part of a coding assignment to evaluate technical skills, system design decisions, and code quality.
+-   Some production-level features are intentionally simplified or excluded to focus on the core business logic and API integration
+-   The following aspects are not fully implemented: user authentication, full db schema details for storing order details
+
