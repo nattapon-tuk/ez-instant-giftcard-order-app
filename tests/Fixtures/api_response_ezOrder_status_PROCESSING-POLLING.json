@@ -1,0 +1,37 @@
+{
+    "requestId": "57f207647e381c02605597d670e5226c",
+    "data": {
+        "total": 1,
+        "page": 1,
+        "pageSize": 10,
+        "totalPage": 1,
+        "items": [
+            {
+                "transactionId": "4612",
+                "ezOrderNumber": "23235",
+                "clientOrderNumber": null,
+                "grandTotal": {
+                    "amount": "9.70",
+                    "currency": "USD"
+                },
+                "createdAt": "2026-02-22T11:55:02Z",
+                "status": "PROCESSING",
+                "products": [
+                    {
+                        "sku": "8PX-UF-Y5U",
+                        "quantity": 1,
+                        "unitPrice": {
+                            "amount": "9.70",
+                            "currency": "USD"
+                        },
+                        "totalPrice": {
+                            "amount": "9.70",
+                            "currency": "USD"
+                        },
+                        "status": "PROCESSING"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "requestId": "35f9cb18a0e3f04b74b2746967a44c11",
+    "data": {
+        "transactionId": "4612",
+        "clientOrderNumber": null,
+        "grandTotal": {
+            "amount": "9.70",
+            "currency": "USD"
+        },
+        "createdAt": "2026-02-22T11:55:02Z",
+        "status": "PROCESSING",
+        "products": [
+            {
+                "sku": "8PX-UF-Y5U",
+                "quantity": 1,
+                "unitPriceOriginal": null,
+                "unitPrice": {
+                    "amount": "9.70",
+                    "currency": "USD"
+                },
+                "totalPrice": {
+                    "amount": "9.70",
+                    "currency": "USD"
+                },
+                "status": "PROCESSING"
+            }
+        ]
+    }
+}

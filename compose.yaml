@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  php-fpm-app:
+    build:
+      context: .
+      dockerfile: ./docker/dev/php-fpm/Dockerfile
+    volumes:
+      # Mount the application code for live updates
+      - ./:/var/www/html
+    ports:
+        - "8001:9000"
