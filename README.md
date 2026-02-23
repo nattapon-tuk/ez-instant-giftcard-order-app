@@ -154,7 +154,7 @@ GET http://localhost:8000/orders/{localOrderId}
 
 ------------------------------------------------------------------------
 
-# 📎 AI tool help during this coding test assignement
+# 📎 AI tool help during this coding test assignment
 
 -   search on google & got google AI overview for quickly reviewing some new latest helper functions (ex. Arr) / syntax examples, and Eloquent model properties & methods in Laravel 12 + PHPUnit Testing syntax example for testing each scenarios (ex.how to mock external api response, insert fake records, concurrentlly run sending requests )
 -   ChatGPT for formatting my installation & running app guideline content into README.md
