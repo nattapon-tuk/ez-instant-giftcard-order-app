@@ -28,6 +28,7 @@ RUN chmod -R 775 storage bootstrap/cache
 
 # RUN database migration
 RUN php artisan migrate
+RUN php artisan key:generate
 
 # Expose the default Laravel port
 EXPOSE 8000

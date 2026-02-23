@@ -13,7 +13,7 @@ Route::get('/orders/{localOrderId}', [OrderController::class, 'getRedeemCode']);
 
 //TODO: to test
 //Route::get('/orders-index', [OrderController::class, 'index']);
-Route::get('/orders', [OrderController::class, 'create']); //TODO: ToBeRemoved Later after finished
+//Route::get('/orders', [OrderController::class, 'create']); //TODO: ToBeRemoved Later after finished
 
 
 
